@@ -1,5 +1,5 @@
 currencies =
-  btc: new BTC()
+  kmd: new KMD()
   eth: new ETH()
   ltc: new LTC()
   xrb: new XRB()
